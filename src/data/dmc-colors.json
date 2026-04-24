@@ -1,0 +1,7 @@
+[
+  { "code": "310", "name": "Black", "hex": "#000000", "rgb": { "r": 0, "g": 0, "b": 0 } },
+  { "code": "B5200", "name": "Snow White", "hex": "#FFFFFF", "rgb": { "r": 255, "g": 255, "b": 255 } },
+  { "code": "321", "name": "Red", "hex": "#C81D11", "rgb": { "r": 200, "g": 29, "b": 17 } },
+  { "code": "699", "name": "Green", "hex": "#056517", "rgb": { "r": 5, "g": 101, "b": 23 } },
+  { "code": "3843", "name": "Electric Blue", "hex": "#14A8E1", "rgb": { "r": 20, "g": 168, "b": 225 } }
+]
